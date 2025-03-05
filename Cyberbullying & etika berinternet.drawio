@@ -289,7 +289,7 @@
         <mxCell id="142" value="Detail" style="text;spacingTop=-5;fontSize=8;align=center;verticalAlign=middle;points=[]" parent="1" vertex="1">
           <mxGeometry x="166.0416666666666" y="380.97222222222246" width="30" height="19.999999999999886" as="geometry" />
         </mxCell>
-        <mxCell id="143" value="Cause 2" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
+        <mxCell id="143" value="" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="260" y="109.99999999999994" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="144" value="Cause 5" style="whiteSpace=wrap;strokeWidth=2" parent="1" vertex="1">
